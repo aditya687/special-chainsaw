@@ -1,2 +1,3 @@
-# special-chainsaw
-Built to look for new profiles in readme
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
